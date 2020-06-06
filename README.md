@@ -75,7 +75,6 @@ Below is the graph of the training and validation costs as the model trained in 
 
 ![costs](costs.png?raw=true "costs")
 
----
 
 
 ### **LIVE CODE**
